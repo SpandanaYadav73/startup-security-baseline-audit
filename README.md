@@ -11,7 +11,7 @@ The assessment covers:
 
 - Network Exposure
 - Transport Security
-- Web Application Security
+- Web Application Layer
 - Identity & Access
 - Cloud / Storage Misconfiguration
 
