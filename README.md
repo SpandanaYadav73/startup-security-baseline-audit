@@ -38,6 +38,13 @@ The assessment covers:
 - [x] Phase 4 - Audit Report
 - [x] Phase 5 - Portfolio Packaging
 
+## Deliverables
+
+- [Security Checklist](checklist-template/Startup-Security-Checklist.md)
+- [Phase 3 Risk Assessment](Phase_3_Risk_Assessment_CIS_Mapping_Final.pdf)
+- [Phase 4 Sample Audit Report](Phase_4_Sample_Security_Audit_Report.pdf)
+- [Evidence](evidence/)
+
 ## Target
 
 DVWA running locally in an authorized security testing lab.
