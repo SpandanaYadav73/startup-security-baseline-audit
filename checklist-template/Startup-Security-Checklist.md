@@ -64,7 +64,7 @@ HTTP response, or other audit artifact collected during the assessment.
 
 The assessment will focus on:
 
-1 Network Exposure
+1. Network Exposure
 2. Transport Security
 3. Web Application Layer
 4. Identity & Access
