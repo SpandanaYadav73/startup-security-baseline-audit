@@ -13,7 +13,7 @@ The framework was demonstrated against a deliberately vulnerable Damn Vulnerable
 ### Results at a Glance
 
 - **4 findings:** 1 Critical (demo), 1 High, 1 Medium, 1 Low
-- **20 checklist items reviewed:** 6 Fail, 1 Pass, 2 Observation, 1 Not Determined, 10 N/A or Not Assessed
+- **21 checklist items reviewed:** 6 Fail, 1 Pass, 2 Observation, 1 Not Determined, 10 N/A or Not Assessed
 - Several checks could not be tested in the lab (TLS, MFA, password policy, RBAC, cloud storage) and were recorded as such instead of being forced into a Pass or Fail. See [Checks Not Applicable or Not Determined](#checks-not-applicable-or-not-determined).
 
 ## Project Objectives
