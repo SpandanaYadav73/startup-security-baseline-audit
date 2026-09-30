@@ -33,10 +33,10 @@ The assessment covers:
 
 - [x] Phase 0 - Environment & Scope Setup
 - [x] Phase 1 - Checklist Development
-- [ ] Phase 2 - Baseline Assessment
-- [ ] Phase 3 - Risk Assessment & Prioritization
-- [ ] Phase 4 - Audit Report
-- [ ] Phase 5 - Portfolio Packaging
+- [x] Phase 2 - Baseline Assessment
+- [x] Phase 3 - Risk Assessment & Prioritization
+- [x] Phase 4 - Audit Report
+- [x] Phase 5 - Portfolio Packaging
 
 ## Target
 
